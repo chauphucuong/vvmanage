@@ -1,0 +1,9 @@
+PCname	PCIP	OSname	Username	LastUpdate
+LEARN263	172.16.11.42	Windows Server 2012 R2 Standard	Windows User	11/21/2018 05:11:12
+LEARN-APP204	172.16.11.130	Windows 10 Pro	XUANGIANG	11/20/2018 11:11:18
+THUYLINH210	172.16.11.13	Windows 10 Enterprise	Windows User	11/21/2018 05:11:04
+LEARN212	172.16.11.5	Windows Server 2008 R2 Enterprise	AutoBVT	11/21/2018 05:11:46
+LEARN202	172.16.11.138	Windows Server 2012 R2 Standard	Windows User	11/21/2018 05:11:07
+LEARN200	172.16.11.131	Windows Server 2012 R2 Standard	Windows User	11/21/2018 05:11:09
+THUYLINH443	172.16.11.3	Windows 10 Enterprise	ThuyLinh	11/19/2018 09:11:26
+SRVDB52	172.16.11.16	Windows Server 2012 R2 Standard	Windows User	11/20/2018 12:11:59

@@ -1,0 +1,210 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+.navbar{
+  margin-bottom: 0px;
+}
+.navbar-laravel {
+  background-color:$primarycolor;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+  height: 150px;
+  & li{
+      color:#fff;
+      margin-top:50px;
+      font-size:25px;
+  }
+}
+.navbar-laravel1{
+  background-color:#fff;
+} 
+
+.body{
+  font-size: 15px;
+}
+
+.backgroundhome{
+  background-color: rgb(240, 240, 240);
+  & .admin{
+    font-size:20px;
+  }
+}
+.imglogin{
+  height:150px;
+  width: 400px;
+}
+.imgindex{
+height: 40px;
+}
+.imgmenu{
+  // margin-top:200px;
+  // margin-left:20px;
+  // height: 50px;
+  left: 20%;
+  width: 60%;
+  position: absolute;
+  bottom: 10px;
+}
+.tbComputer{
+  background-color: #fff;
+  border: 2px solid gray;
+  margin-right: 2px;
+  height: 520px;
+}
+.tbborder{
+  background-color: rgb(241, 241, 241);
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+.borderleft{
+    padding-left: 20px;
+    border-left: 2px solid #000;
+}
+.tblogin{
+  margin-top:100px;
+  margin-left:100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+  & button{
+    background-color:$primarycolor;
+    width: 100px;
+  }
+}
+
+.tablehome{
+  & th{
+    background-color: rgb(225, 225, 225);
+  }
+  & th,td{
+    font-size: 15px;
+  }
+}
+// viết cho dataTables.bootstrapp.js
+.rdatatable{
+  background-color:#fff;
+  height: 490px;
+  border: 2px  solid gray;
+  margin-left: 0px;
+}
+.rdatas{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.tbindex{
+  width: 400px;
+  & tr{
+    align :left;
+    font-size:13px;
+  }
+}
+.show1{
+  position: absolute;
+  height: 550px;
+  width: 750px;
+  background-color:#fff;
+  display: none;
+  z-index: 15;
+  margin-top: 20px;
+  margin-left: 150px;
+}
+.computer-detail {
+  height: 100%;
+}
+
+.dropdownuser{
+  text-align: center;
+  padding-right: 50px;
+}
+.menu{
+  // height: 595px;
+ 
+  background-color: rgb(3, 40, 65);
+  font-size: 20px;
+  color: #fff;
+  & table{
+    width: 210px;
+  }
+  & td {
+    margin-left:0px;
+    height: 50px;
+    border-bottom: 1px solid gray;
+  }
+}
+.btnExportData{
+  background-color: #fff;
+  font-size: 16px;
+  position: absolute;
+  z-index: 10;
+  margin-top: 523px;
+  margin-bottom: 10px;
+  margin-left:450px;
+}
+
+.btnExportData1{
+  background-color: #fff;
+  font-size: 16px;
+  position: absolute;
+  z-index: 10;
+  margin-top: 523px;
+  margin-bottom: 10px;
+  margin-left:560px;
+}
+
+.btnExportSF{
+  background-color: #fff;
+  font-size: 16px;
+  margin-top: 350px;
+  margin-left: 300px;
+}
+
+.headersoftware{
+  background-color: rgb(3, 40, 65);
+  color:#fff;
+  font-size: 20px;
+  height: 30px;
+}
+
+.headerlogin{
+  background-color:$primarycolor;
+}
+.close{
+  color: #fff;
+  font-size: 35px;
+}
+
+.navbar-right {
+  float: right!important;
+   margin-right: 0px;
+}
+
+.header-table-software {
+  padding-top: 10px;
+
+  & .navbar-right {
+    position: absolute;
+    padding-top: 5px;
+  }
+}
+
+.header-table-softwarelist {
+  padding-top: 10px;
+
+  & .navbar-right {
+    position: absolute;
+    padding-top: 25px;
+  }
+}
+.row-container-fluid{
+  padding-left: 15px;
+}
+
+.row-body {
+  width: 100%;
+  min-height: 580px;
+}

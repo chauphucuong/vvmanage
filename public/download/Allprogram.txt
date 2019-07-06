@@ -1,0 +1,343 @@
+Softwarename	Publisher	LatUpdate	PCname
+ Tools for .Net 3.5	Microsoft Corporation	20/11/2018	THUYLINH443
+Active Directory Authentication Library for SQL Server	Microsoft Corporation	23/11/2018	LEARN-APP204
+Adobe Flash Player 18 ActiveX	Adobe Systems Incorporated	21/11/2018	LEARN212
+Bitvise SSH Server 7.31 (remove only)	Bitvise Limited	21/11/2018	LEARN200
+ClickOnce Bootstrapper Package for Microsoft .NET Framework	Microsoft Corporation	20/11/2018	THUYLINH443
+Dell OpenManage Server Administrator	Dell	21/11/2018	LEARN212
+DiagnosticsHub_CollectionService	Microsoft Corporation	22/11/2018	LEARN-APP204
+Google Chrome	Google Inc.	21/11/2018	LEARN200
+Google Update Helper	Google Inc.	21/11/2018	LEARN200
+hMailServer 5.6.5-B2367		21/11/2018	LEARN202
+Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB946040)	Microsoft Corporation	21/11/2018	LEARN212
+Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB946308)	Microsoft Corporation	21/11/2018	LEARN212
+Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB946344)	Microsoft Corporation	21/11/2018	LEARN212
+Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB947540)	Microsoft Corporation	21/11/2018	LEARN212
+Hotfix for Microsoft Visual Studio 2007 Tools for Applications - ENU (KB947789)	Microsoft Corporation	21/11/2018	LEARN212
+IBM_DLC_DataCleaningService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_DLC_PersonalInfoService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_HCW_DataCleaningService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_HCW_PersonalInfoService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_MB_DataCleaningService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_PW_DataCleaningService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_PW_PersonalInfoService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_RCW_DataCleaningService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_RCW_PersonalInfoService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_SCN_DataCleaningService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_SCN_PersonalInfoService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_SCW_DataCleaningService	Vigilant Solutions	26/11/2018	SRVDB52
+IBM_SCW_PersonalInfoService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_SOCW_CR_DataCleaningService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_SOCW_CR_PersonalInfoService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_SOCW_RI_DataCleaningService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_SOCW_RI_PersonalInfoService	Vigilant Solutions	26/11/2018	SRVDB52
+IBM_WAM_DataCleaningService	Vigilant Solutions	20/11/2018	SRVDB52
+IBM_WAM_PersonalInfoService	Vigilant Solutions	26/11/2018	SRVDB52
+IBMDataDump	Vigilant Solutions	20/11/2018	THUYLINH443
+IBMReportService1	Vigilant Solutions	21/11/2018	THUYLINH210
+IBMReportService2	Vigilant Solutions	21/11/2018	THUYLINH210
+icecap_collection_x64	Microsoft Corporation	23/11/2018	LEARN-APP204
+IIS 10.0 Express	Microsoft Corporation	23/11/2018	LEARN-APP204
+IIS Express Application Compatibility Database for x64		23/11/2018	LEARN-APP204
+IIS Express Application Compatibility Database for x86		23/11/2018	LEARN-APP204
+Intel(R) Chipset Device Software	Intel(R) Corporation	21/11/2018	LEARN263
+Intel(R) Processor Graphics	Intel Corporation	21/11/2018	THUYLINH443
+IntelliTraceProfilerProxy	Microsoft Corporation	20/11/2018	THUYLINH443
+JetBrains PyCharm Community Edition 2018.2.5	JetBrains s.r.o.	20/11/2018	THUYLINH443
+LDS_EventUpload	Vigilant Solutions	21/11/2018	LEARN202
+Learn Service	Vigilant Solutions	21/11/2018	LEARN202
+LEARN STD	Vigilant Solutions	21/11/2018	LEARN200
+LPRD_CJISExchange	Vigilant\Service	21/11/2018	LEARN263
+Matrox Graphics Software (remove only)		21/11/2018	LEARN212
+Microsoft .NET Core Host - 2.1.4 (x64)	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft .NET Core Host FX Resolver - 2.1.4 (x64)	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft .NET Core Runtime - 2.1.4 (x64)	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft .NET Core SDK 2.1.402 (x64)	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft .NET Framework 4 Multi-Targeting Pack	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft .NET Framework 4.5 Multi-Targeting Pack	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.5 SDK	Microsoft Corporation	21/11/2018	LEARN263
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)	Microsoft Corporation	21/11/2018	THUYLINH443
+Microsoft .NET Framework 4.5.1 SDK	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.5.2 Multi-Targeting Pack (ENU)	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.6 Targeting Pack	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.6.1 SDK	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.6.1 Targeting Pack	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.6.2 SDK	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.6.2 Targeting Pack	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.6.2 Targeting Pack (ENU)	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.7 SDK	Microsoft Corporation	21/11/2018	THUYLINH443
+Microsoft .NET Framework 4.7 Targeting Pack	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework 4.7 Targeting Pack (ENU)	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Analysis Services OLE DB Provider	Microsoft Corporation	21/11/2018	THUYLINH443
+Microsoft Application Error Reporting	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft ASP.NET 2.0 AJAX Extensions 1.0	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft ASP.NET Core 2.1.4 Shared Framework (x64)	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft ASP.NET Core Module for IIS Express	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft ASP.NET MVC 3	Microsoft Corporation	21/11/2018	LEARN263
+Microsoft ASP.NET MVC 4 Runtime	Microsoft Corporation	21/11/2018	LEARN263
+Microsoft ASP.NET Web Pages	Microsoft Corporation	21/11/2018	LEARN263
+Microsoft Azure Authoring Tools - v2.9.5.3	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Azure Compute Emulator - v2.9.5.3	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Azure Libraries for .NET - v2.9	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Build Tools 14.0 (amd64)	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Build Tools 14.0 (x86)	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Build Tools Language Resources 14.0 (amd64)	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Build Tools Language Resources 14.0 (x86)	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Help Viewer 2.0	Microsoft Corporation	21/11/2018	LEARN263
+Microsoft Help Viewer 2.2	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft NetStandard SDK	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft ODBC Driver 13 for SQL Server	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Office 2003 Web Components	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft Portable Library Multi-Targeting Pack	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Portable Library Multi-Targeting Pack Language Pack - enu	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Report Viewer 2012 Runtime	Microsoft Corporation	20/11/2018	SRVDB52
+Microsoft Report Viewer 2014 Runtime	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft Silverlight 4 SDK	Microsoft Corporation	21/11/2018	LEARN263
+Microsoft Silverlight 5 SDK	Microsoft Corporation	21/11/2018	LEARN263
+Microsoft SQL Server 2008 Books Online (English)	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft SQL Server 2008 Policies	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft SQL Server 2008 R2 Management Objects	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft SQL Server 2012 Command Line Utilities 	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft SQL Server 2012 Management Objects 	Microsoft Corporation	26/11/2018	SRVDB52
+Microsoft SQL Server 2012 Native Client 	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft SQL Server 2012 Policies 	Microsoft Corporation	26/11/2018	SRVDB52
+Microsoft SQL Server 2014 Management Objects 	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft SQL Server 2014 Policies 	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft SQL Server 2016 LocalDB 	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft SQL Server 2017		20/11/2018	THUYLINH443
+Microsoft SQL Server 2017 (64-bit)		23/11/2018	LEARN-APP204
+Microsoft SQL Server 2017 Policies 	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft SQL Server 2017 RsFx Driver	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft SQL Server 2017 Setup (English)	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft SQL Server 2017 T-SQL Language Service 	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft SQL Server Compact 3.5 SP1 English	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft SQL Server Compact 3.5 SP1 Query Tools English	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft SQL Server Data Tools - Database Projects - Web installer entry point	Microsoft Corporation	26/11/2018	SRVDB52
+Microsoft SQL Server Data Tools - enu (11.1.20627.00)	Microsoft Corporation	21/11/2018	LEARN263
+Microsoft SQL Server Data Tools Build Utilities - enu (11.1.20627.00)	Microsoft Corporation	21/11/2018	LEARN263
+Microsoft SQL Server Data-Tier Application Framework (x86)	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft SQL Server Management Studio - 17.9	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft SQL Server System CLR Types	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft System CLR Types for SQL Server 2012	Microsoft Corporation	26/11/2018	SRVDB52
+Microsoft System CLR Types for SQL Server 2014	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft System CLR Types for SQL Server 2017	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft System CLR Types for SQL Server vNext CTP1.6	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual C++ 2005 Redistributable	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4974	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual C++ 2010  x86 Runtime - 10.0.40219	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727	Microsoft Corporation	21/11/2018	THUYLINH443
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40660	Microsoft Corporation	21/11/2018	THUYLINH210
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Visual C++ 2013 x64 Debug Runtime - 12.0.21005	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005	Microsoft Corporation	21/11/2018	THUYLINH443
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40660	Microsoft Corporation	21/11/2018	THUYLINH210
+Microsoft Visual C++ 2013 x86 Debug Runtime - 12.0.21005	Microsoft Corporation	21/11/2018	THUYLINH443
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40660	Microsoft Corporation	21/11/2018	THUYLINH210
+Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.23026	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24123	Microsoft Corporation	21/11/2018	THUYLINH210
+Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.23026	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215	Microsoft Corporation	21/11/2018	THUYLINH210
+Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.23026	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215	Microsoft Corporation	21/11/2018	THUYLINH210
+Microsoft Visual C++ 2015 x86 Debug Runtime - 14.0.23026	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.23026	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215	Microsoft Corporation	21/11/2018	THUYLINH210
+Microsoft Visual C++ 2017 Redistributable (x64) - 14.16.27012	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual C++ 2017 Redistributable (x86) - 14.16.27012	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual C++ 2017 x64 Additional Runtime - 14.15.26706	Microsoft Corporation	22/11/2018	LEARN-APP204
+Microsoft Visual C++ 2017 x64 Debug Runtime - 14.15.26706	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.15.26706	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Visual C++ 2017 X86 Additional Runtime - 14.16.27012	Microsoft Corporation	21/11/2018	THUYLINH443
+Microsoft Visual C++ 2017 X86 Minimum Runtime - 14.16.27012	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio 2008 Shell (integrated mode) - ENU	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft Visual Studio 2010 Shell (Integrated) - ENU	Microsoft Corporation	20/11/2018	SRVDB52
+Microsoft Visual Studio 2010 Shell (Isolated) - ENU	Microsoft Corporation	21/11/2018	LEARN200
+Microsoft Visual Studio 2015 Shell (Isolated)	Microsoft Corporation	21/11/2018	THUYLINH443
+Microsoft Visual Studio 2015 Shell (Isolated) Resources	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio 2015 Shell (Minimum)	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio 2015 Shell (Minimum) Interop Assemblies	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio 2015 Shell (Minimum) Resources	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio 2015 XAML Designer	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio 2015 XAML Designer - ENU	Microsoft Corporation	21/11/2018	THUYLINH443
+Microsoft Visual Studio Installer	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Visual Studio Services Hub	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio Setup Configuration	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration (x64)	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Visual Studio Team Foundation Server 2017 RC Office Integration Language Pack (x64) - ENU	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Visual Studio Tools for Applications 2.0 - ENU	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft Visual Studio Tools for Applications 2015	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio Tools for Applications 2015 Finalizer	Microsoft Corporation	21/11/2018	THUYLINH443
+Microsoft Visual Studio Tools for Applications 2015 Language Support	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio Tools for Applications 2015 Language Support - ENU Language Pack	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio Tools for Applications 2015 Language Support Finalizer	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio Tools for Applications 2015 x64 Hosting Support	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Visual Studio Tools for Applications 2015 x86 Hosting Support	Microsoft Corporation	20/11/2018	THUYLINH443
+Microsoft Visual Studio Tools for Applications Design-Time 3.0	Microsoft Corporation	20/11/2018	SRVDB52
+Microsoft Visual Studio Tools for Applications x86 Runtime 3.0	Microsoft Corporation	21/11/2018	LEARN212
+Microsoft VSS Writer for SQL Server 2017	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Web Deploy 4.0	Microsoft Corporation	23/11/2018	LEARN-APP204
+Microsoft Web Deploy dbSqlPackage Provider - enu	Microsoft Corporation	21/11/2018	LEARN263
+Mozilla Firefox 53.0.3 (x86 en-US)	Mozilla	21/11/2018	LEARN263
+Norton Security	Symantec Corporation	23/11/2018	THUYLINH443
+Norton Security Scan	Symantec Corporation	21/11/2018	THUYLINH210
+Notepad++ (32-bit x86)	Notepad++ Team	20/11/2018	THUYLINH443
+PIPS2LEARNInstaller	vigilant	21/11/2018	LEARN202
+Prerequisites for SSDT 	Microsoft Corporation	20/11/2018	SRVDB52
+PrivateDataTransfer	Vigilant Solutions	21/11/2018	LEARN200
+Python Launcher	Python Software Foundation	20/11/2018	THUYLINH443
+Realtek Ethernet Controller All-In-One Windows Driver	Realtek	21/11/2018	LEARN263
+Realtek High Definition Audio Driver	Realtek Semiconductor Corp.	21/11/2018	THUYLINH443
+Remote Desktop Connection Manager	Microsoft Corporation	20/11/2018	THUYLINH443
+Roslyn Language Services - x86	Microsoft Corporation	20/11/2018	THUYLINH443
+Samanage Agent	Samanage	20/11/2018	SRVDB52
+SAP Crystal Reports runtime engine for .NET Framework 4 (32-bit)	SAP	21/11/2018	LEARN200
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2604121)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2656351)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2729449)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2736428)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2737019)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2742595)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2789642)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2804576)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2835393)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2840628)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2840628v2)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2858302v2)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2894842v2)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2898855v2)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2901110v2)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2931365)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2972106)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2972215)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2978125)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB2979575v2)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB3023221)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB3032662)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Client Profile (KB3037578)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Extended (KB2487367)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Extended (KB2656351)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Extended (KB2736428)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Extended (KB2742595)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Extended (KB2858302v2)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Extended (KB2894842v2)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Extended (KB2901110v2)	Microsoft Corporation	21/11/2018	LEARN212
+Security Update for Microsoft .NET Framework 4 Extended (KB3037578)	Microsoft Corporation	21/11/2018	LEARN212
+Setup1	Vigilant Video	21/11/2018	LEARN212
+Skype version 8.33	Skype Technologies S.A.	19/11/2018	THUYLINH443
+Skype version 8.34	Skype Technologies S.A.	20/11/2018	THUYLINH443
+Snagit 2018	TechSmith Corporation	20/11/2018	THUYLINH443
+Sophos SSL VPN Client 2.1		20/11/2018	THUYLINH443
+SQL Server 2017 Analysis Services	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 Batch Parser	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 Client Tools Extensions	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 Common Files	Microsoft Corporation	20/11/2018	THUYLINH443
+SQL Server 2017 Connection Info	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 Database Engine Services	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 Database Engine Shared	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 DMF	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 Integration Services Scale Out Management Portal	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 Management Studio Extensions	Microsoft Corporation	21/11/2018	THUYLINH443
+SQL Server 2017 Shared Management Objects	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 Shared Management Objects Extensions	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 SQL Diagnostics	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server 2017 XEvent	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server Browser for SQL Server 2014	Microsoft Corporation	21/11/2018	LEARN212
+SQL Server Management Studio	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server Management Studio for Analysis Services	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server Management Studio for Reporting Services	Microsoft Corporation	23/11/2018	LEARN-APP204
+SQL Server System CLR Types	Microsoft Corporation	20/11/2018	SRVDB52
+SSMS Post Install Tasks	Microsoft Corporation	23/11/2018	LEARN-APP204
+StatisticAutoReportEmailService	Vigilant Solutions	21/11/2018	LEARN202
+TAS Client	Vigilant Solutions	21/11/2018	THUYLINH210
+TeamViewer 13	TeamViewer	20/11/2018	THUYLINH443
+TeamViewer 7	TeamViewer	21/11/2018	LEARN212
+Total Commander 64-bit (Remove or Repair)	Ghisler Software GmbH	23/11/2018	LEARN-APP204
+Update for  (KB2504637)	Microsoft Corporation	20/11/2018	THUYLINH443
+Update for Microsoft .NET Framework 4 Client Profile (KB2468871)	Microsoft Corporation	21/11/2018	LEARN212
+Update for Microsoft .NET Framework 4 Client Profile (KB2533523)	Microsoft Corporation	21/11/2018	LEARN212
+Update for Microsoft .NET Framework 4 Client Profile (KB2600217)	Microsoft Corporation	21/11/2018	LEARN212
+Update for Microsoft .NET Framework 4 Client Profile (KB2836939)	Microsoft Corporation	21/11/2018	LEARN212
+Update for Microsoft .NET Framework 4 Client Profile (KB2836939v3)	Microsoft Corporation	21/11/2018	LEARN212
+Update for Microsoft .NET Framework 4 Extended (KB2468871)	Microsoft Corporation	21/11/2018	LEARN212
+Update for Microsoft .NET Framework 4 Extended (KB2533523)	Microsoft Corporation	21/11/2018	LEARN212
+Update for Microsoft .NET Framework 4 Extended (KB2600217)	Microsoft Corporation	21/11/2018	LEARN212
+Update for Microsoft .NET Framework 4 Extended (KB2836939)	Microsoft Corporation	21/11/2018	LEARN212
+Update for Microsoft .NET Framework 4 Extended (KB2836939v3)	Microsoft Corporation	21/11/2018	LEARN212
+Update for Microsoft Visual Studio 2015 (KB3095681)	Microsoft Corporation	20/11/2018	THUYLINH443
+Update for Windows 10 for x64-based Systems (KB4023057)	Microsoft Corporation	23/11/2018	LEARN-APP204
+VAutoCaleParking	Vigilant Solutions	21/11/2018	LEARN202
+VAutoIPSAPI	Vigilant Solutions	21/11/2018	LEARN202
+VAutoParkingMobile	Vigilant Solutions	21/11/2018	LEARN202
+VAutoPayByPhone	Vigilant Solutions	21/11/2018	LEARN202
+VAutoReportEL	Vigilant Solutions	21/11/2018	LEARN202
+VAutoUnitedParkingSafety	Vigilant Solutions	21/11/2018	LEARN202
+VAutoWhitelistAPI	Vigilant Solutions	21/11/2018	LEARN202
+VBulkUserCreationService	Vigilant Solutions	21/11/2018	LEARN202
+VCheckDigitalChalking	Vigilant Solutions	21/11/2018	LEARN202
+VCheckingExpiration	Vigilant Solutions	21/11/2018	LEARN202
+VCollectInfo Learn Servers	Vigilant Solutions	21/11/2018	LEARN212
+vcpp_crt.redist.clickonce	Microsoft Corporation	20/11/2018	THUYLINH443
+VDeleteImageInRecycleAmazon	Vigilant Solutions	21/11/2018	LEARN202
+VDensityDataNVLS	Vigilant Solutions	21/11/2018	LEARN212
+VDistributeDigitalChalking	Vigilant Solutions	21/11/2018	LEARN202
+VDistributeWhitelist	Vigilant Solutions	21/11/2018	LEARN202
+VEventDensity	Vigilant Solutions	21/11/2018	LEARN202
+VGetDataFromDRN	Vigilant Solutions	21/11/2018	LEARN202
+VGetReaperHealthStatus	Vigilant Solutions	21/11/2018	LEARN202
+VHitListDispositionUpdate	Vigilant Solutions	21/11/2018	LEARN202
+Vigilant Fixed LPR	Vigilant Solutions	21/11/2018	THUYLINH210
+Vigilant Mobile LPR	Vigilant Solutions	21/11/2018	THUYLINH443
+VIndustryMetricDataUpdate	Vigilant Solutions	21/11/2018	LEARN202
+Visual Studio 2015 Prerequisites	Microsoft Corporation	23/11/2018	LEARN-APP204
+Visual Studio 2015 Prerequisites - ENU Language Pack	Microsoft Corporation	23/11/2018	LEARN-APP204
+Visual Studio Community 2017	Microsoft Corporation	20/11/2018	THUYLINH443
+VLEADataTransfer	Vigilant Solutions	21/11/2018	LEARN202
+VLearnMonitor	Vigilant Solutions	21/11/2018	LEARN202
+VLPRUpdateAgencyToLMS	Vigilant Solutions	21/11/2018	LEARN202
+VNVLSHotlistLoad	Vigilant Video\Service	21/11/2018	LEARN212
+VPMWHotList	VigilantSolutions.com	21/11/2018	LEARN202
+VQuickSearchOfflineReportService	Vigilant Solutions	21/11/2018	LEARN202
+VReaperSendMail	vigilantsolutions	21/11/2018	LEARN200
+VReaperUpload	vigilantsolutions	21/11/2018	LEARN200
+VRemoteWhiteList	Vigilant Solutions	21/11/2018	LEARN202
+VS JIT Debugger	Microsoft Corporation	23/11/2018	LEARN-APP204
+VS Script Debugging Common	Microsoft Corporation	23/11/2018	LEARN-APP204
+VS WCF Debugging	Microsoft Corporation	23/11/2018	LEARN-APP204
+vs_clickoncebootstrappermsi	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_clickoncebootstrappermsires	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_clickoncesigntoolmsi	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_communitymsi	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_communitymsires	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_devenvmsi	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_filehandler_amd64	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_filehandler_x86	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_FileTracker_Singleton	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_minshellinteropmsi	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_minshellmsi	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_minshellmsires	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_SQLClickOnceBootstrappermsi	Microsoft Corporation	20/11/2018	THUYLINH443
+vs_tipsmsi	Microsoft Corporation	20/11/2018	THUYLINH443
+VSearchHitlistPE	Vigilant Solutions	21/11/2018	LEARN202
+VSendMailExpireModuleLMS	Vigilant Solutions	21/11/2018	LEARN202
+VSendMailPE	Vigilant Solutions	20/11/2018	SRVDB52
+VSendNotice	Vigilant Solutions	21/11/2018	LEARN202
+VUploadEvent1	Vigilant Solutions	21/11/2018	LEARN202
+VUploadEvent2	Vigilant Solutions	21/11/2018	LEARN202
+VUploadEvent3	Vigilant Solutions	21/11/2018	LEARN202
+VUploadEvent4	Vigilant Solutions	21/11/2018	LEARN202
+VUploadEvent5	Vigilant Solutions	21/11/2018	LEARN202
+VVManage	Vigilant Solutions	21/11/2018	LEARN200
+WCF RIA Services V1.0 SP2	Microsoft Corporation	21/11/2018	LEARN263
+Winpower		21/11/2018	LEARN200
